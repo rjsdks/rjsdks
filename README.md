@@ -1,4 +1,4 @@
-### 안녕하세요 안건 입니다. 👋
+### 안녕하세요 👋
 
 <!--
 **rjsdks/rjsdks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
