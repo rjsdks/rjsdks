@@ -1,5 +1,7 @@
 ### 안녕하세요 👋
 
+멋쟁이사자처럼 백엔드파트 10th
+
 <!--
 **rjsdks/rjsdks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
